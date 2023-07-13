@@ -13,11 +13,12 @@
 
 <h2>✨ Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Google Cybersecurity Professional Certificate](https://coursera.org/share/9a4dcf02a092bc1037265ef7cb20fce2)
+- [Introduction to Cybersecurity
+Issued by Cisco](https://www.credly.com/badges/3222a86c-d176-40d8-b332-faded9402e7d/public_url)
+- [Analyze Network Traffic with TCPDump](https://coursera.org/share/33e01059d6286125e2c17dfafd4cd7cb)
+- [Microsoft Windows Defender and Firewall for Beginners](https://coursera.org/share/49802f90cbfd45acff9c64868bca3cc5)
+
 
 <h2> 💬 Connect with me:</h2>
 
