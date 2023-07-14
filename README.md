@@ -14,8 +14,8 @@
 <h2>✨ Certifications</h2>
 
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/9a4dcf02a092bc1037265ef7cb20fce2)
-- [Introduction to Cybersecurity
-Issued by Cisco](https://www.credly.com/badges/3222a86c-d176-40d8-b332-faded9402e7d/public_url)
+- [Introduction to Cybersecurity Issued by Cisco](https://www.credly.com/badges/3222a86c-d176-40d8-b332-faded9402e7d/public_url)
+- [Cyber Threat Management Issued by Cisco](https://www.credly.com/badges/da0484d0-e5e1-4bab-95b1-4240f4f87618/public_url)
 - [Analyze Network Traffic with TCPDump](https://coursera.org/share/33e01059d6286125e2c17dfafd4cd7cb)
 - [Microsoft Windows Defender and Firewall for Beginners](https://coursera.org/share/49802f90cbfd45acff9c64868bca3cc5)
 
